@@ -8,7 +8,7 @@
     <None Remove="Properties\**" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="VL.Core" Version="2020.2.1" />
+    <PackageReference Include="VL.Core" Version="2021.3.3" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\VVVV.Audio.Signals\VVVV.Audio.Signals.csproj" />
